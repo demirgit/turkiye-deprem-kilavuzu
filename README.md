@@ -1,2 +1,2 @@
 # turkiye-deprem-kilavuzu
-Turkiye deprem klavuzu, hayati bilgiler, linkler, haberleşme, analiz ve daha fazlasını içeren herkese açık klavuz. Katkıda bulunmak için kurallar çerçevesinde talep atabilirsiniz.
+Turkiye deprem kılavuzu, hayati bilgiler, linkler, haberleşme, analiz ve daha fazlasını içeren herkese açık kılavuz. Katkıda bulunmak için kurallar çerçevesinde talep atabilirsiniz.
